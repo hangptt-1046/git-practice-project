@@ -1,1 +1,4 @@
-test push code 
+test push code
+commit 1: thêm email 
+commit 2: thêm phone
+commit 3: thêm address
