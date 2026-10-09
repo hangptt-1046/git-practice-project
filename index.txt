@@ -1,1 +1,1 @@
-test push code, sửa từ local 
+test push code, sửa từ local => chỉnh sửa xong conflict
