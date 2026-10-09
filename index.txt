@@ -1,2 +1,3 @@
 test push code
 commit 1: thêm email 
+commit 2: thêm phone
